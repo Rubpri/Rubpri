@@ -1,3 +1,3 @@
 ### **Hello everyone** 👋, I'm Rubén 👨‍💻
 
-[![LinkedIn](https://mi-url-de-imagen.com/icono-linkedin.png)](https://www.linkedin.com/in/ruben-prieto-serrano/)
+[!((https://cdn-icons-png.flaticon.com/512/174/174857.png))](https://www.linkedin.com/in/ruben-prieto-serrano/)
