@@ -8,9 +8,6 @@
 <br>
 <br>
   
-<p style="display:inline-block; margin-left:0;"> I'm currently learning  at @4GeeksAcademy 🚀 
 
-<br>
-<br>
 
 
